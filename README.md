@@ -1,3 +1,4 @@
+![Capture](https://user-images.githubusercontent.com/31216523/236978771-82e83cef-1177-4fbc-98f7-80b37955d196.JPG)
 To request data from the server:
 1. Establish a TCP connection to the server running the microservice. The IP address is 127.0.0.1 and the port number is 1237
 
